@@ -1,4 +1,5 @@
 body{
-    text-align: center;
-    align-items: center !important;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-display: inherit;
 }
